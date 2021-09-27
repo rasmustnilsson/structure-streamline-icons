@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-from genericpath import isdir
 import os
 import zipfile
 import shutil
